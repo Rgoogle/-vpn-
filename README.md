@@ -1,6 +1,7 @@
 # VPN Gateway
 
 A magisk module to enable natless routing LAN traffic to VpnService.
+安卓面具共享vpn给其他设备，比如电脑，给其他的安卓设备。
 
 # Install
 
